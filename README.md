@@ -17,11 +17,12 @@ I went ahead and learned how to make Plugins with Adobe Extendscript using Adobe
 
 After 2 weeks of trial and error, I finally had a working product. 
 
-Initially, I never had any intentions to sell this product, but when I saw how efficient it made my workflow, I decided to do so. I spent another 3 months, carefully planning the video demonstration for my product, how to sell it and market it. I was worried that since I had a very small community of people who followed me at the time (Around 160 followers), that It would get ignored, since I lacked the credibility, but little did I know that my script would be my break-through in the editing community.
+Initially, I never had any intentions to sell this product, but when I saw how efficient it made my workflow, I decided to do so. I spent another 3 months, carefully planning the video demonstration for my product, how to sell it and market it. I was worried that since I had a very small community of people who followed me at the time (Around 160 followers), that It would get ignored, since I lacked the credibility, but little did I know that my plugin would be my break-through in the editing community.
 
-I went ahead and posted the video demo, as well as the website selling 3 versions of the script with different features (one for 4.99$ , one of 9.99$ and one for 12.99$) and people **loved** it. Ever since then, it has stayed relevant in the community even though I have not been active in the slighltest. Most video editors are still using it to this day, making it a must-have in the animation video editing community.
+I went ahead and posted the video demo, as well as the website selling 3 versions of the plugin with different features (one for 4.99$ , one of 9.99$ and one for 12.99$) and people **loved** it. Ever since then, it has stayed relevant in the community even though I have not been active in the slighltest. Most video editors are still using it to this day, making it a must-have in the animation video editing community.
+
 # Sales Analytics : Jan 1 2021 - 24 Oct 2023
-##### Note : The website where I sell the script is still averaging 30 views per day, 2 years after it's release
+##### Note : The website where I sell the plugin is still averaging 30 views per day, 2 years after it's release
 
 ![analytics](Media/Pasted%20image%2020231024154952.png)
 # Video Demo 
@@ -30,7 +31,7 @@ I went ahead and posted the video demo, as well as the website selling 3 version
 ![](./Media/gif_demo.gif)
 
 
-# Script Customization
+# Plugin Customization
 ##### Explanation : 
 
 In the tutorial of how to install the script, provided to the user after the purchase, I gave detailed instructions on how to personalize the script. It's so personalizable that there's 1440+ possible permutations of it, not even taking into account many other settings.
@@ -38,8 +39,11 @@ The logic I decided on was to have variables, defined in the top of the file, th
 - 1 or 0 values: Indicating Yes or No.
 - Custom Values : Some effect parameters can take as inputs numbers that range  0-10000.
 ##### View of the inside of the file :
-
 ![Inside](Media/Pasted%20image%2020231024162818.png)
+
+# User Interface
+###### Screenshot of the plugin's user interface!
+<img width="232" alt="image" src="https://github.com/TawfiqAbubaker/EasyLayers/assets/81333153/eb21fed7-1984-4910-a0e0-79359c94e65f">
 
 # More fun analytics
 
