@@ -28,7 +28,8 @@ I went ahead and posted the video demo, as well as the website selling 3 version
 # Video Demo 
 ##### 30 Second gif demonstrating the usage of the script.
 
-![](./Media/gif_demo.gif)
+<div style="text-align:center"><img src="./Media/gif_demo.gif" width="100%"></div>
+
 
 
 # Plugin Customization
@@ -43,7 +44,7 @@ The logic I decided on was to have variables, defined in the top of the file, th
 
 # User Interface
 ###### Screenshot of the plugin's user interface!
-<img width="232" alt="image" src="https://github.com/TawfiqAbubaker/EasyLayers/assets/81333153/eb21fed7-1984-4910-a0e0-79359c94e65f">
+<img width="300" alt="image" src="https://github.com/TawfiqAbubaker/EasyLayers/assets/81333153/eb21fed7-1984-4910-a0e0-79359c94e65f">
 
 # More fun analytics
 
