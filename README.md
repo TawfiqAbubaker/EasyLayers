@@ -1,9 +1,10 @@
 # Description
 
-Easylayers is an After Effects plugin I made and sold 1000+ copies of since late 2020. 
+Easylayers is an After Effects plugin I coded. It sold 1000+ copies since early 2021. 
 The plugin lets you: 
-- Create Adjustment layers trimmed to the clip's length
+- Create personalisable Adjustment layers trimmed to the clip's length.
 - Create 2d and 3d nulls, trimmed to the clips selected with the relevant keyframes placed.
+- Add solids, trimmed to the clip's length.
 - Twixtor button which reduces the time needed to apply **Twixtor** to a clip from about 3 minutes per clip to  30 seconds, reducing the process time by 80% on average.
 
 # Background 
@@ -22,7 +23,7 @@ I went ahead and posted the video demo, as well as the website selling 3 version
 # Sales Analytics : Jan 1 2021 - 24 Oct 2023
 ##### Note : The website where I sell the script is still averaging 30 views per day, 2 years after it's release
 
-![[./Media/Pasted image 20231024154952.png]]
+![analytics](Media/Pasted%20image%2020231024154952.png)
 # Video Demo 
 ##### 30 Second gif demonstrating the usage of the script.
 
@@ -38,7 +39,7 @@ The logic I decided on was to have variables, defined in the top of the file, th
 - Custom Values : Some effect parameters can take as inputs numbers that range  0-10000.
 ##### View of the inside of the file :
 
-![[Pasted image 20231024162818.png]]
+![Inside](Media/Pasted%20image%2020231024162818.png)
 
 # More fun analytics
 
@@ -49,4 +50,4 @@ I have visits on my website from just about any country in the world, except for
 * Papua New Guinea 🇵🇬
 * Nicaragua 🇳🇮
 
-![[./Media/Pasted image 20231024160659.png]]
+![](./Media/Pasted%20image%2020231024160659.png)
